@@ -10,6 +10,7 @@ namespace test
             Console.WriteLine("Niebora");
             Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("Witaj");
+            Console.ResetColor();
         }
     }
 }
