@@ -8,6 +8,8 @@ namespace test
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Niebora");
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine("Witaj");
         }
     }
 }
