@@ -11,7 +11,6 @@ namespace test
             Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("Witaj");
             Console.ResetColor();
-            Console.Write("test");
         }
     }
 }
